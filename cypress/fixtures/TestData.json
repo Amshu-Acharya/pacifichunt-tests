@@ -1,0 +1,18 @@
+[
+  { 
+      "FirstName":"Tommy",
+      "LastName":"Pummy",
+      "Email":"tommy888@yopmail.com",
+      "Mobile Number":"9843859327",
+      "Password":"Test@123",
+      "ConfirmPassword":"Test@123",
+      
+      "EmailAddress":"tommy888@",
+      "Password2":"Test@123",
+
+      "EmailAddress1":"tommy888@yopmail.com",
+      "Password3":"Test@123"
+    
+}
+  
+]
